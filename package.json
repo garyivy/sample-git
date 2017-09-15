@@ -1,0 +1,15 @@
+{
+  "name": "git-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample-source.js",
+  "scripts": {
+    "start": "node sample-source.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
